@@ -33,18 +33,22 @@ For Windows users, install Ubuntu 20.04 LTS in a VirtualBox. Refer to the follow
 
 **How to install VirtalBox 6.0.10 on Windows 10**
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8mns5yqMfZk/0.jpg)](http://www.youtube.com/watch?v=8mns5yqMfZk)
+![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8mns5yqMfZk/0.jpg)
+
+[Watch here](http://www.youtube.com/watch?v=8mns5yqMfZk)
 
 **How to install Ubuntu 20.04 on VirtualBox in Windows 10**
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/x5MhydijWmc/0.jpg)](http://www.youtube.com/watch?v=x5MhydijWmc)
+![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/x5MhydijWmc/0.jpg)
+
+[Watch here](http://www.youtube.com/watch?v=x5MhydijWmc)
 
 
 **Getting started**
 
 TensorFlow Lite for Microcontrollers supports several devices out of the box, and is relatively easy to extend to new devices. For this guide, we will focus on the **NXP FRDM K66F**.
 
-![board](https://www.nxp.com/assets/images/en/dev-board-image/FRDM-K66F-BD.jpg#center =400x350)
+![IMAGE ALT TEXT HERE](https://www.nxp.com/assets/images/en/dev-board-image/FRDM-K66F-BD.jpg)
 
 
 We will deploy a sample application that uses the microphone on the K66F and a TensorFlow machine learning model to detect the words “yes” and “no”.
